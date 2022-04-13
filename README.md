@@ -1,2 +1,2 @@
-# Segundo-reposit-rio
+# Segundo-repositorio
 Repositório Dio-Desafio
